@@ -1,0 +1,7 @@
+package co.mintic.tiendavirtual.DAO;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface UsuariosDAO extends JpaRepository<Usuarios, Integer>{
+
+}

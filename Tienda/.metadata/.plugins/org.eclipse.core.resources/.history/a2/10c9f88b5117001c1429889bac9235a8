@@ -1,0 +1,5 @@
+package co.mintic.tiendavirtual.modelo;
+
+public class Usuarios {
+
+}

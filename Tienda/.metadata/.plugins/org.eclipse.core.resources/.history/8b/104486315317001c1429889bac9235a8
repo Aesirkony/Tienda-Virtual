@@ -1,0 +1,8 @@
+package com.mintic.tiendavirtual.api;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@RequestMapping("usuarios")
+public class UsuariosAPI {
+
+}
